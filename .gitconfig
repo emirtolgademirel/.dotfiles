@@ -1,0 +1,11 @@
+[init]
+    defaultBranch = master 
+[core]
+    editor = vim
+[alias]
+    st = status
+    co = checkout
+[color "branch"]
+    current = yellow bold
+    local = green bold
+    remote = cyan bold
