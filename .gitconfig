@@ -1,3 +1,6 @@
+[user]
+    mail = johndoe@example.com
+    name = john doe
 [init]
     defaultBranch = master 
 [core]
